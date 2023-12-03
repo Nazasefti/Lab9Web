@@ -20,7 +20,7 @@
 
 # ![image](https://github.com/Nazasefti/Lab9Web/assets/115772516/89b052be-b422-4fec-a453-f5af57df3719)
 
-# Buat file baru dengan namaheader.php
+# Buat file baru dengan nama header.php
 
          <!DOCTYPE html>
          <html lang="en">
@@ -39,3 +39,35 @@
                      <a href="about.php">About</a>
                      <a href="kontak.php">Kontak</a>
                  </nav>
+# Buat file baru dengan nama footer.php
+
+         <footer>
+             <p>&copy; 2023, Informatika, Universitas Pelita Bangsa</p>
+         </footer>
+         </div>
+         </body>
+         </html>
+
+# Buat file baru dengan nama home.php
+
+         <?php require('header.php'); ?>
+         
+         <div class="content">
+             <h2>Ini Halaman Home</h2>
+             <p>Ini adalah bagian content dari halaman.</p>
+         </div>
+         
+         <?php require('footer.php'); ?>
+
+# Buat file baru dengan nama about.php 
+
+         <?php require('header.php'); ?>
+         
+         <div class="content">
+             <h2>Ini Halaman About</h2>
+             <p>Ini adalah bagian content dari halaman.</p>
+         </div>
+         
+         <?php require('footer.php'); ?>
+
+         
