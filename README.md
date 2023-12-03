@@ -16,6 +16,6 @@
 
 # ![image](https://github.com/Nazasefti/Lab9Web/assets/115772516/21f6cec8-4c5e-456e-8797-3dc2e063a70f)
 
-# Buat file lab9_php_modularpada direktori root server web(c:\xampp\htdocs)
+# Buat file lab9_php_modular pada direktori root server web (c:\xampp\htdocs)
 
 # ![image](https://github.com/Nazasefti/Lab9Web/assets/115772516/89b052be-b422-4fec-a453-f5af57df3719)
